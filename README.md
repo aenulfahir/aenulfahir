@@ -45,5 +45,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-aenul-fahir"><img src="https://img.shields.io/badge/-Muhammad%20Aenul%20Fahir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:aenulfahir03@gmail.com"><img src="https://img.shields.io/badge/-aenulfahir03@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aenulfahir_03"><img src="https://img.shields.io/badge/-@aenulfahir_03?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/aenulfahir_03"><img src="https://img.shields.io/badge/-@aenulfahir_03-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
