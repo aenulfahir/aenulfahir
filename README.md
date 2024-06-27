@@ -17,9 +17,6 @@
 
 - 📫 How to reach me **aenulfahir03@gmail.com**
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
