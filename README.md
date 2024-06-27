@@ -7,12 +7,11 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-
-- 🌱 I’m currently Working on Mobile App(React-Native) and Android Native (Java,Kotlin)
-
-- 🤝 I’m available for freelancing.
+- 🔭 I’m currently Working on Mobile App(React-Native) and Android Native (Java,Kotlin)
 
 - 🌱 I’m currently learning Flutter
+
+- 🤝 I’m available for freelancing.
 
 - 💬 Ask me about **Reactjs & React-Native**
 
@@ -21,3 +20,18 @@
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <br>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,figma,firebase,github,html,java,js,linux,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,&perline=14" />
+  </a>
+</p>
+
+
