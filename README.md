@@ -31,4 +31,19 @@
   </a>
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aenulfahir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aenulfahir&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/muhammad-aenul-fahir"><img src="https://img.shields.io/badge/-Muhammad%20Aenul%20Fahir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:aenulfahir03@gmail.com"><img src="https://img.shields.io/badge/-aenulfahir03@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/aenulfahir_03"><img src="https://img.shields.io/badge/-@aenulfahir_03?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
