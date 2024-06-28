@@ -10,12 +10,16 @@
 - 🔭 I’m currently Working on Mobile App(React-Native) and Android Native (Java,Kotlin)
 
 - 🌱 I’m currently learning Flutter and Kotlin Multiplatform
+ 
+- 👯 I’m looking to Work on Mobile Developer
 
 - 🤝 I’m available for freelancing.
 
 - 💬 Ask me about **Reactjs & React-Native**
 
 - 📫 How to reach me **aenulfahir03@gmail.com**
+  
+
 
 
 <!--h1 without bottom border-->
@@ -48,10 +52,4 @@
 <a href="https://instagram.com/aenulfahir_03"><img src="https://img.shields.io/badge/-@aenulfahir_03-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
 
-<div align="center">
-  <a href="https://github.com/aenulfahir/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
